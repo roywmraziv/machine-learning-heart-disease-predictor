@@ -383,31 +383,6 @@ Test accuracy:  89.92%
 
 These results indicate a strong performance of the model in predicting heart disease presence.
 
-## Contributing
-
-Contributions are welcome! Please follow these steps to contribute:
-
-1. **Fork the Repository**
-2. **Create a Feature Branch**
-
-   ```bash
-   git checkout -b feature/YourFeature
-   ```
-
-3. **Commit Your Changes**
-
-   ```bash
-   git commit -m "Add your feature"
-   ```
-
-4. **Push to the Branch**
-
-   ```bash
-   git push origin feature/YourFeature
-   ```
-
-5. **Open a Pull Request**
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
